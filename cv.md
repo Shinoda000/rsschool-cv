@@ -1,24 +1,23 @@
-## Dmitry Shishko
+# Dmitry Shishko
 -----------------------
-
-### Contacts
+## Contacts
 -----------------------
 * Telegram: @Shinoda00
 * Discord: Shinoda#3045
 * E-mail: d1maofficial666@gmail.com
 
-### About me
+## About me
 -----------------------
 I am student now and I am only learning to code. I learn fast and try hard to become a developer.
 
-### Skills
+## Skills
 -----------------------
 * JavaScript
 * HTML
 * CSS
 * C#
 
-### Code example
+## Code example
 -----------------------
 ```
 function mygcd(x,y){
@@ -29,12 +28,13 @@ function mygcd(x,y){
 }
 ```
 
-### Work experience
+## Work experience
 -----------------------
 
-### Education
+## Education
 -----------------------
 [JavaScript YouTube Course](https://www.youtube.com/watch?v=Bluxbh9CaQ0&t)
 
-### English level
+## English level
+-----------------------
 A2
