@@ -1,0 +1,70 @@
+body {
+    margin: 0 0 20px 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+}
+
+header {
+    border-bottom: 1px solid rgb(211, 211, 211);
+    margin-bottom: 20px;
+}
+
+.avatar_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+
+.name {
+    text-align: center;
+    margin-top: 0;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+}
+
+.code {
+    background-color: rgb(236, 235, 235);
+    padding: 5px;
+    width: 300px;
+}
+
+.block1, .block2, .block3 {
+    display: flex;
+    justify-content: center;
+}
+
+.contacts, .about_me, .skills, .code_example, .education, .english_level {
+    width: 300px;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20;
+}
+
+.contacts, .skills, .education {
+    border-right: 1px solid rgb(211, 211, 211);
+}
+.about_me, .code_example, .english_level {
+    border-left: 1px solid rgb(211, 211, 211);
+}
+
+.contacts, .skills, .about_me, .code_example {
+    border-bottom: 1px solid rgb(211, 211, 211);
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: rgb(60, 0, 128);
+}
